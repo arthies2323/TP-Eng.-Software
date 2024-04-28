@@ -52,4 +52,6 @@ Pretendo que o site seja desenvolvido utilizando as seguintes tecnologias:
 2. **RNF02 - Usabilidade:**
    - A interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários inexperientes.
    - Deve ser fornecida uma navegação clara.
+  
+   Quanto a requisitos de segurança, por hora não pretendo armazenar informações do usuário, então por enquanto não pensarei nisso.
 
