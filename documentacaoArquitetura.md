@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta documentação, descreveremos a arquitetura do projeto para a aplicação ODS 11 - Cidades e Comunidades Sustentáveis. Este projeto visa desenvolver uma aplicação web informativa para promover a conscientização sobre o desenvolvimento urbano sustentável.
+Arquitetura do projeto para a aplicação ODS 11 - Cidades e Comunidades Sustentáveis. Este projeto visa desenvolver uma aplicação web informativa para promover a conscientização sobre o desenvolvimento urbano sustentável.
 
 ## Escolhas de Tecnologias
 
